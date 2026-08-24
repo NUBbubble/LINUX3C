@@ -1,0 +1,6 @@
+| NOMBRE | PERMISOS | 1rs Line | 2nd Line | 3rd LINE |
+| :--- | :--- | :---: | :---: | :---: |
+| `README.txt` | `-rw-rw-r--` | 6 | 6 | 4 |
+| `clidocs` | `rwxrwxr-x` | 7 | 7 | 5 |
+| `clilogs` | `rwxrwxr-x` | 7 | 7 | 5 |
+| `clisrc` | `rwxrwxr-x` | 7 | 7 | 5 |
