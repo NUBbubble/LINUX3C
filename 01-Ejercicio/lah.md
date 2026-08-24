@@ -4,3 +4,6 @@
 | `clidocs` | `rwxrwxr-x` | 7 | 7 | 5 |
 | `clilogs` | `rwxrwxr-x` | 7 | 7 | 5 |
 | `clisrc` | `rwxrwxr-x` | 7 | 7 | 5 |
+
+URL:
+https://github.com/NUBbubble/LINUX3C/blob/main/01-Ejercicio/lah.md
