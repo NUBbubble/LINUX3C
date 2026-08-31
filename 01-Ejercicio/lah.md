@@ -5,6 +5,6 @@
 | `clilogs` | `rwxrwxr-x` | 7 | 7 | 5 |
 | `clisrc` | `rwxrwxr-x` | 7 | 7 | 5 |
 
-![Imagen](/LINUX3C/01-Ejercicio/PermisosLab01.png)
+![Imagen](PermisosLab01.png)
 URL:
 https://github.com/NUBbubble/LINUX3C/blob/main/01-Ejercicio/lah.md
