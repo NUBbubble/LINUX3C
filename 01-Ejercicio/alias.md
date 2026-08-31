@@ -5,3 +5,6 @@ En la siguiente imagen se encuentra el comando Alias y una de sus aplicaciones c
 
 Enlistamos todos los Alias 
 ![Imagen](Alias02.png)
+
+Eliminamos el Alias ll creado anteriormente.
+![Imagen](Alias03.png)
